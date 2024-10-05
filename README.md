@@ -9,7 +9,7 @@ Heres what i know
 | HTML                    | Good knowledge   |
 | CSS                     | Beginner         |
 | Java                    | Very Limited     |
-| Python                  | little to none   |
+| Python                  | learning slowly  |
 | C++/C+/C                | None             |
 | Markdown                | A little         |
 | ltterally anything else | none             |
