@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Im a small coder working on small projects heres what i know
-Heres what i know
+I am a small coder working on small projects Here is what I know
+Here is what I know
 
 ----------------------------------------------
 | CODE TYPE               | Knowledge        |
@@ -15,4 +15,4 @@ Heres what i know
 | ltterally anything else | none             |
 ----------------------------------------------
 
-Ok so yeah and what am i working on? well random things.
+Ok so yeah and what am I working on? well, random things. right now im trying to learn Python. working on some small projects. anyway that's all byeee
