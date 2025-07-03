@@ -8,7 +8,7 @@ Here is what I know
 |-------------------------|-----------------------|
 | HTML                    | Good knowledge        |
 | CSS                     | Beginner              |
-| Java                    | not alot but learning |
+| JavaScript              | not alot but learning |
 | Python                  | learning quickly      |
 | C++/C+/C                | None                  |
 | Markdown                | A little              |
